@@ -19,5 +19,7 @@ Homework (and other bits/projects) from APCS Semester 1 at Gunn High School.
 
 ### Additional Resources
 [Mr. Paley's APCS website](http://paleyontology.com/AP_CS/)
+
 [Codingbat Java practice](https://codingbat.com/java)
+
 [APCSA: College Board](https://apstudent.collegeboard.org/apcourse/ap-computer-science-a)
