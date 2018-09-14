@@ -1,7 +1,7 @@
 # APCS Scheme Homework 
 Homework (and other bits/projects) from APCS Semester 1 at Gunn High School. 
 
-### Contents
+## Contents
 * Unit 1: Building Abstractions with Procedures
     * Recursion 
     * Recursive vs iterative processes
@@ -17,7 +17,7 @@ Homework (and other bits/projects) from APCS Semester 1 at Gunn High School.
     * Modeling with mutable data
     * Stacks, queues, & tables
 
-### Additional Resources
+## Additional Resources
 [Mr. Paley's APCS website](http://paleyontology.com/AP_CS/)
 
 [Codingbat Java practice](https://codingbat.com/java)
